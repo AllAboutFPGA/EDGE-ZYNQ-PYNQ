@@ -1,0 +1,6 @@
+the_image:
+{
+  [bootloader] E:/Downloads/edge_jobs/pynq/fsbl/executable.elf
+  [load=0x4000000, startup=0x4000000] E:/Downloads/edge_jobs/pynq/boot/u-boot.bin
+  [load=0x100000] E:/Downloads/edge_jobs/pynq/boot/uboot_system.dtb
+}

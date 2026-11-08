@@ -1,0 +1,17 @@
+# Vivado / Vitis HLS build output
+work/
+*.jou
+*.log
+*.str
+.Xil/
+*_prj/
+NA/
+# overlay build results inside the tutorial series (copy them to the board instead)
+tutorial-series/*/overlays/
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# images are published as release assets, not in git
+*.img
+*.img.zip

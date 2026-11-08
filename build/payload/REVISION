@@ -1,0 +1,4 @@
+EDGE ZYNQ SoC FPGA kit - PYNQ v3.1.1 image, release 2026-11-08 (3: VGA output, switches and buttons numbered by board position)
+Invent Logics / allaboutfpga.com
+Based on the PYNQ v3.1.1 PYNQ-Z2 image (Ubuntu 22.04, Linux 6.6.10-xilinx-v2024.1)
+Works on the EDGE ZYNQ Z7-10 (XC7Z010) and Z7-20 (XC7Z020) boards.
